@@ -2,7 +2,10 @@
 
 [Play Veggle on itch.io](https://v4lk.itch.io/veggle)
 
-Veggle is a Peggle-style physics game where you cook dishes by shooting veggie balls into a pegboard. It was created in one week for the Ryan Laley Games Jam 2025, with the full commit history preserved in version control (though not hosted on GitHub). It was also used as a playground to practice clean, scalable Unreal Engine architecture under time pressure.
+Veggle is a Peggle-style physics game where you cook dishes by shooting veggie balls into a pegboard. 
+It was created in one week for the Ryan Laley Games Game Jam 2025. 
+
+It was also used as a playground to practice clean, scalable Unreal Engine architecture under time pressure.
 
 ---
 
